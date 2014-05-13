@@ -1,5 +1,7 @@
 #Preside Editor
 
-This project is dedicated to the richeditor used in Preside. It is 99% simply a specifically configured instance of [CKEditor](http://ckeditor.com/). The rest of the 1% is made up of Preside specific plugins for the editor.
+This project is dedicated to storing and tracking the base configuration of the editor used by Preside, [CKEditor](http://ckeditor.com/).
 
-If you find yourself here, you're either a Preside contributer wanting to make changes to the editor, or you're in the wrong place and probably want to be at the [main Preside repository](https://github.com/pixl8/Preside-CMS).
+All Preside custom extensions to the editor such as the Widgets plugin, are tracked in the [main Preside repository](https://github.com/pixl8/Preside-CMS).
+
+If you find yourself here, you're either a Preside contributer wanting to make changes to the core CKEditor files, or you're in the wrong place!
