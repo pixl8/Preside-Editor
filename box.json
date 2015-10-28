@@ -10,6 +10,6 @@
     "slug":"presidecmseditor",
     "shortDescription":"Richeditor (CKEditor) with build configuration ready for PresideCMS",
     "createPackageDirectory":true,
-    "packageDirectory":"/system/assets/ckeditor/",
+    "packageDirectory":"",
     "private":false
 }
