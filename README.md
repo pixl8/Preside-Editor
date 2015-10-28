@@ -1,7 +1,39 @@
-#Preside Editor
+CKEditor 4
+==========
 
-This project is dedicated to storing and tracking the base configuration of the editor used by Preside, [CKEditor](http://ckeditor.com/).
+Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.  
+http://ckeditor.com - See LICENSE.md for license information.
 
-All Preside custom extensions to the editor such as the Widgets plugin, are tracked in the [main Preside repository](https://github.com/pixl8/Preside-CMS).
+CKEditor is a text editor to be used inside web pages. It's not a replacement
+for desktop text editors like Word or OpenOffice, but a component to be used as
+part of web applications and websites.
 
-If you find yourself here, you're either a Preside contributor wanting to make changes to the core CKEditor files, or you're in the wrong place!
+## Documentation
+
+The full editor documentation is available online at the following address:
+http://docs.ckeditor.com
+
+## Installation
+
+Installing CKEditor is an easy task. Just follow these simple steps:
+
+ 1. **Download** the latest version from the CKEditor website:
+    http://ckeditor.com. You should have already completed this step, but be
+    sure you have the very latest version.
+ 2. **Extract** (decompress) the downloaded file into the root of your website.
+
+**Note:** CKEditor is by default installed in the `ckeditor` folder. You can
+place the files in whichever you want though.
+
+## Checking Your Installation
+
+The editor comes with a few sample pages that can be used to verify that
+installation proceeded properly. Take a look at the `samples` directory.
+
+To test your installation, just call the following page at your website:
+
+	http://<your site>/<CKEditor installation path>/samples/index.html
+
+For example:
+
+	http://www.example.com/ckeditor/samples/index.html
