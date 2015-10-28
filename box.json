@@ -1,0 +1,13 @@
+{
+    "name":"PresideCMS Editor",
+    "version":"1.0.0",
+    "author":"Pixl8 Interactive",
+    "createPackageDirectory":true,
+    "repository":{
+        "type":"GitHub",
+        "URL":"https://github.com/pixl8/Preside-Editor"
+    },
+    "slug":"presidecmseditor",
+    "shortDescription":"Richeditor (CKEditor) with build configuration ready for PresideCMS",
+    "private":false
+}
